@@ -1,6 +1,7 @@
 👋 Howdy! I'm Yuki, a self-proclaimed coding wizard and professional procrastinator. Welcome to the weird and wonderful world of my hub!
 
 Bout' Me
+
 🔭 I’m currently juggling too many projects at once, but hey, multitasking is my middle name! (and procrastinator as well...)
 
 🌱 I’m currently learning how to procrastinate more efficiently... I mean, mastering Python.
@@ -15,11 +16,13 @@ Bout' Me
 
 
 Skills
+
 Programming Languages: Proficient in Python, fluent in memes.
 
 Tools & Platforms: I know how to use the Library of Babel.
 
 Projects
+
 Here are some of the projects I'm proud of (when I'm not binge-watching Netflix):
 
 Bio-logica: This project uses a constant stream of coffee to work, I did it cause of a school project (I started 24h before the due time).
@@ -27,6 +30,7 @@ Bio-logica: This project uses a constant stream of coffee to work, I did it caus
 Namorofujao: Warning: may contain traces of (bad) humor and code, seriously, it's a project that I wanted to use with my girlfriend, but then I remembered that I don't have a girlfriend.
 
 Let's Connect
+
 [LinkedIn](https://www.linkedin.com/in/francisco-yuki-ishikiriyama-7018a9192/): Because even wizards need a professional profile.
 
 [Twitter](https://twitter.com/T_Z3r0y): Where I share my thoughts in 280 characters or less... mostly less (jk, mostly more, way more).
