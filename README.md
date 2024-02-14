@@ -20,6 +20,7 @@ Namorofujao: Warning: may contain traces of (bad) humor and code, seriously, it'
 
 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/francisco-yuki-ishikiriyama-7018a9192/): Because even wizards need a professional profile.
+
 [Twitter](https://twitter.com/T_Z3r0y): Where I share my thoughts in 280 characters or less... mostly less (jk, mostly more, way more).
 
 Feel free to explore my repositories and join me on this crazy coding adventure! Remember, the code is strong with this one.
