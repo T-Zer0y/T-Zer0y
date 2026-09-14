@@ -13,10 +13,12 @@ or worse.
 
 ## Some things I've built
 
+- **Wadsworth** — a AI butler that helps me to run my homelab.
 - **Bio-Logica** — an interactive citology quiz, built in one long
   caffeine-fueled night before a school deadline.
 - **Namororfujao** — a small site with a "no backing out" button, made
   for one very specific occasion.
+
 
 ## Contact
 
